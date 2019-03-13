@@ -1,5 +1,3 @@
-![Technigo Logo](https://www.technigo.io/images/logo-circle.png)
-
 # Frontend Developer 
 Placement: Stockholm, Sweden
 
@@ -11,7 +9,7 @@ Format: Full-time
 
 [About Technigo](www.technigo.io)
 
-We’re currently looking for someone with tech skills who can help us and our students to move forward in the early stages of their education for both our Technigo organisation but also our sister organisation Tjejer Kodar. The role is based in Stockholm, where you’ll work in a smaller team to ensure that our students get the help they need and you’ll be a key player in pushing us forward technically. 
+We’re currently looking for someone with tech skills who can help us and our students to move forward in the early stages of their education for both our Technigo organisation but also our sister organisation [Tjejer Kodar.](www.tjejerkodar.se) The role is based in Stockholm, where you’ll work in a smaller team to ensure that our students get the help they need and you’ll be a key player in pushing us forward technically. 
 
 ### A few of this things you’ll do in the role: 
 
