@@ -1,4 +1,4 @@
-# Frontend Developer 
+# Frontend Developer @Technigo
 Placement: Stockholm, Sweden
 
 Format: Full-time 
