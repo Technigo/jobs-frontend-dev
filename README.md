@@ -1,3 +1,5 @@
+![Technigo Logo](https://www.technigo.io/images/logo-circle.png)
+
 # Frontend Developer 
 Placement: Stockholm, Sweden
 
@@ -15,7 +17,7 @@ We’re currently looking for someone with tech skills who can help us and our s
 
 * **Help others.** By giving support in our online forum, do live code alongs on webinars and do code reviews for our students. 
 * **Share with others.** You’ll be expected to do research and keep up with the news of the tech community to share this with our students and drive a conversation and discussion in our Slack channels. 
-**Learn more.** You’ll always be challenged to learn more within code and tech – that’s what we do for a living and we live like we learn. You’ll also be a key player in making and updating course material to be up to date and helping project manage the creation of new material and educations. 
+* **Learn more.** You’ll always be challenged to learn more within code and tech – that’s what we do for a living and we live like we learn. You’ll also be a key player in making and updating course material to be up to date and helping project manage the creation of new material and educations. 
 
 This role is very much in the border of tech and people – and you need to have skills for both. We’re looking for someone who is passionate about tech and likes to share knowledge with others. You need to enjoy working in a smaller team and in a startup environment. 
 
