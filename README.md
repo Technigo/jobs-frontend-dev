@@ -1,10 +1,13 @@
 # Frontend Developer 
-Placement: Stockholm
+Placement: Stockholm, Sweden
+
 Format: Full-time 
 
 **Technigo is a new form of education, a fast paced tech education formed to teach front-end developers in the latest technologies. We’re proud to have an extremely high percentage of female participants in our full-time programming educations – a number that is unheard of from other programming educations. Our initiatives and organisations are often featured in media and TV and our founders have been featured as a few of the most powerful women in technology by ELLE Magazine and Expressen.** 
 
 **We are driven by a true passion for technology. For us, technology is creative, and a tool which enables you to reach and affect many people globally. A tool we would like to provide to more people.**
+
+[About Technigo](www.technigo.io)
 
 We’re currently looking for someone with tech skills who can help us and our students to move forward in the early stages of their education for both our Technigo organisation but also our sister organisation Tjejer Kodar. The role is based in Stockholm, where you’ll work in a smaller team to ensure that our students get the help they need and you’ll be a key player in pushing us forward technically. 
 
@@ -47,3 +50,5 @@ Apply on email to hello@technigo.io and tell us a little about yourself and why 
 * Why do you find this role interesting? 
 
 We're looking forward to see your application! 
+
+The team behind Technigo is also running the organisation [Tjejer Kodar](www.tjejerkodar.se) – One of the biggest communities for women in tech in Sweden. 
